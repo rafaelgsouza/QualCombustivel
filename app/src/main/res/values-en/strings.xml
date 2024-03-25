@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qual Combustível</string>
+    <string name="answer_ethanol">Fill up with ehtanol.</string>
+    <string name="answer_gas">Fill up with gas.</string>
+    <string name="message_gas">Gas valor by liter:</string>
+    <string name="message_ethanol">Ethanol valor by liter:</string>
+    <string name="button_text">Which is the best option?</string>
+    <string name="toast_missing_values">Enter the value of the two fuels.</string>
+    <string name="toast_invalid_number">Invalid value.</string>
+</resources>

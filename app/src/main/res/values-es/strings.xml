@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qual Combustível</string>
+    <string name="answer_ethanol">Llenar com etanol.</string>
+    <string name="answer_gas">Llenar com gasolina.</string>
+    <string name="message_gas">Valor de un litro de gasolina:</string>
+    <string name="message_ethanol">Valor de un litro de etanol:</string>
+    <string name="button_text">¿Cuál es la mejor opción?</string>
+    <string name="toast_missing_values">Introduzca el valor de los dos combustibles.</string>
+    <string name="toast_invalid_number">Valor no válido.</string>
+</resources>
